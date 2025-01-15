@@ -1,4 +1,4 @@
-package com.state.mywardrobe
+package com.homework.mywardrobe
 
 import org.junit.Test
 

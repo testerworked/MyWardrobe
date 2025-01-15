@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    namespace 'com.state.mywardrobe'
+    namespace 'com.homework.mywardrobe'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.state.mywardrobe"
-        minSdk 28
+        applicationId "com.homework.mywardrobe"
+        minSdk 25
         targetSdk 34
         versionCode 1
         versionName "1.0"
